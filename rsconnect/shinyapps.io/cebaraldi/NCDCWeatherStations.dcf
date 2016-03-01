@@ -1,0 +1,8 @@
+name: NCDCWeatherStations
+account: cebaraldi
+server: shinyapps.io
+bundleId: 269755
+url: https://cebaraldi.shinyapps.io/NCDCWeatherStations
+when: 1442764512.35727
+asMultiple: FALSE
+asStatic: FALSE
